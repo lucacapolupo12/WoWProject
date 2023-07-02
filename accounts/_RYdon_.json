@@ -1,0 +1,5467 @@
+{
+    "last_battle_time": 1664291309,
+    "account_id": 562913374,
+    "leveling_tier": 17,
+    "created_at": 1559469862,
+    "leveling_points": 1483,
+    "updated_at": 1683327640,
+    "private": null,
+    "hidden_profile": false,
+    "logout_at": 1664292075,
+    "karma": null,
+    "statistics": {
+        "distance": 37914,
+        "battles": 1458,
+        "pvp": {
+            "max_xp": 3198,
+            "damage_to_buildings": 0,
+            "main_battery": {
+                "max_frags_battle": 4,
+                "frags": 318,
+                "hits": 20368,
+                "max_frags_ship_id": 4259264496,
+                "shots": 68610
+            },
+            "max_ships_spotted_ship_id": 4183799504,
+            "max_damage_scouting": 132065,
+            "art_agro": 746022260,
+            "max_xp_ship_id": 4183799504,
+            "ships_spotted": 1100,
+            "second_battery": {
+                "max_frags_battle": 2,
+                "frags": 49,
+                "hits": 16655,
+                "max_frags_ship_id": 4180621104,
+                "shots": 90661
+            },
+            "max_frags_ship_id": 4259264496,
+            "xp": 995448,
+            "survived_battles": 221,
+            "dropped_capture_points": 0,
+            "max_damage_dealt_to_buildings": 0,
+            "torpedo_agro": 67206560,
+            "draws": 0,
+            "control_captured_points": 6671,
+            "battles_since_510": 997,
+            "max_total_agro_ship_id": 4180621104,
+            "planes_killed": 2216,
+            "battles": 997,
+            "max_ships_spotted": 11,
+            "max_suppressions_ship_id": null,
+            "survived_wins": 189,
+            "frags": 618,
+            "damage_scouting": 13298164,
+            "max_total_agro": 4379600,
+            "max_frags_battle": 5,
+            "capture_points": 0,
+            "ramming": {
+                "max_frags_battle": 1,
+                "frags": 14,
+                "max_frags_ship_id": 4180588272
+            },
+            "suppressions_count": 0,
+            "max_suppressions_count": 0,
+            "torpedoes": {
+                "max_frags_battle": 4,
+                "frags": 104,
+                "hits": 399,
+                "max_frags_ship_id": 4291704528,
+                "shots": 5179
+            },
+            "max_planes_killed_ship_id": 4259264496,
+            "aircraft": {
+                "max_frags_battle": 5,
+                "frags": 76,
+                "max_frags_ship_id": 4185896752
+            },
+            "team_capture_points": 101640,
+            "control_dropped_points": 4744,
+            "max_damage_dealt": 152333,
+            "max_damage_dealt_to_buildings_ship_id": null,
+            "max_damage_dealt_ship_id": 4180621104,
+            "wins": 502,
+            "losses": 495,
+            "damage_dealt": 34123178,
+            "max_planes_killed": 35,
+            "max_scouting_damage_ship_id": 4181669680,
+            "team_dropped_capture_points": 70176,
+            "battles_since_512": 997
+        }
+    },
+    "nickname": "_RYdon_",
+    "stats_updated_at": 1683327640,
+    "ships": [
+        {
+            "pvp": {
+                "max_xp": 2378,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 4,
+                    "hits": 260,
+                    "shots": 625
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 25133,
+                "art_agro": 4776200,
+                "ships_spotted": 24,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 17986,
+                "survived_battles": 3,
+                "dropped_capture_points": 35,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 564926,
+                "draws": 0,
+                "battles_since_510": 20,
+                "planes_killed": 10,
+                "battles": 20,
+                "max_ships_spotted": 5,
+                "team_capture_points": 1441,
+                "frags": 23,
+                "damage_scouting": 125808,
+                "max_total_agro": 558700,
+                "max_frags_battle": 4,
+                "capture_points": 274,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 4,
+                    "frags": 19,
+                    "hits": 71,
+                    "shots": 656
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 3,
+                "max_damage_dealt": 120316,
+                "wins": 11,
+                "losses": 9,
+                "damage_dealt": 589475,
+                "max_planes_killed": 4,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1505,
+                "battles_since_512": 20
+            },
+            "last_battle_time": 1579547934,
+            "account_id": 562913374,
+            "distance": 706,
+            "updated_at": 1579548749,
+            "battles": 20,
+            "ship_id": 4291704528,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1530,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 35,
+                    "shots": 68
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 24926,
+                "art_agro": 674900,
+                "ships_spotted": 10,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2969,
+                "survived_battles": 0,
+                "dropped_capture_points": 10,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 140600,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 2,
+                "battles": 2,
+                "max_ships_spotted": 5,
+                "team_capture_points": 300,
+                "frags": 1,
+                "damage_scouting": 40816,
+                "max_total_agro": 416100,
+                "max_frags_battle": 1,
+                "capture_points": 111,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 3,
+                    "shots": 24
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 32951,
+                "wins": 2,
+                "losses": 0,
+                "damage_dealt": 35829,
+                "max_planes_killed": 2,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 184,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1652712916,
+            "account_id": 562913374,
+            "distance": 654,
+            "updated_at": 1652713349,
+            "battles": 30,
+            "ship_id": 4184749872,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2287,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 7,
+                    "hits": 482,
+                    "shots": 1966
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 40154,
+                "art_agro": 21632100,
+                "ships_spotted": 4,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 246,
+                    "shots": 883
+                },
+                "xp": 22350,
+                "survived_battles": 4,
+                "dropped_capture_points": 84,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1460932,
+                "draws": 0,
+                "battles_since_510": 24,
+                "planes_killed": 35,
+                "battles": 24,
+                "max_ships_spotted": 3,
+                "team_capture_points": 2570,
+                "frags": 7,
+                "damage_scouting": 192624,
+                "max_total_agro": 1921100,
+                "max_frags_battle": 1,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 100157,
+                "wins": 11,
+                "losses": 13,
+                "damage_dealt": 1034980,
+                "max_planes_killed": 7,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1787,
+                "battles_since_512": 24
+            },
+            "last_battle_time": 1600549116,
+            "account_id": 562913374,
+            "distance": 848,
+            "updated_at": 1600549637,
+            "battles": 33,
+            "ship_id": 4284430032,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2677,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 147,
+                    "shots": 301
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 49406,
+                "art_agro": 4006650,
+                "ships_spotted": 32,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 21153,
+                "survived_battles": 6,
+                "dropped_capture_points": 153,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 958422,
+                "draws": 0,
+                "battles_since_510": 19,
+                "planes_killed": 40,
+                "battles": 19,
+                "max_ships_spotted": 4,
+                "team_capture_points": 1979,
+                "frags": 11,
+                "damage_scouting": 201149,
+                "max_total_agro": 604600,
+                "max_frags_battle": 3,
+                "capture_points": 398,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 3,
+                    "frags": 11,
+                    "hits": 43,
+                    "shots": 444
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 6,
+                "max_damage_dealt": 105189,
+                "wins": 11,
+                "losses": 8,
+                "damage_dealt": 419759,
+                "max_planes_killed": 16,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1841,
+                "battles_since_512": 19
+            },
+            "last_battle_time": 1577196902,
+            "account_id": 562913374,
+            "distance": 735,
+            "updated_at": 1577197875,
+            "battles": 19,
+            "ship_id": 4184749776,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1203,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 77,
+                    "shots": 250
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 22208,
+                "art_agro": 796200,
+                "ships_spotted": 4,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 4168,
+                "survived_battles": 1,
+                "dropped_capture_points": 24,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 335403,
+                "draws": 0,
+                "battles_since_510": 5,
+                "planes_killed": 1,
+                "battles": 5,
+                "max_ships_spotted": 4,
+                "team_capture_points": 841,
+                "frags": 4,
+                "damage_scouting": 23878,
+                "max_total_agro": 446254,
+                "max_frags_battle": 3,
+                "capture_points": 110,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 2,
+                    "frags": 3,
+                    "hits": 5,
+                    "shots": 144
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 24711,
+                "wins": 4,
+                "losses": 1,
+                "damage_dealt": 54443,
+                "max_planes_killed": 1,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 298,
+                "battles_since_512": 5
+            },
+            "last_battle_time": 1579278281,
+            "account_id": 562913374,
+            "distance": 107,
+            "updated_at": 1579278934,
+            "battles": 5,
+            "ship_id": 4274927600,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1650,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 199,
+                    "shots": 734
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 48144,
+                "art_agro": 16018200,
+                "ships_spotted": 5,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 652,
+                    "shots": 3682
+                },
+                "xp": 9408,
+                "survived_battles": 1,
+                "dropped_capture_points": 39,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1237624,
+                "draws": 0,
+                "battles_since_510": 11,
+                "planes_killed": 36,
+                "battles": 11,
+                "max_ships_spotted": 4,
+                "team_capture_points": 999,
+                "frags": 5,
+                "damage_scouting": 181356,
+                "max_total_agro": 2790350,
+                "max_frags_battle": 3,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 115828,
+                "wins": 2,
+                "losses": 9,
+                "damage_dealt": 722416,
+                "max_planes_killed": 28,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 820,
+                "battles_since_512": 11
+            },
+            "last_battle_time": 1663447987,
+            "account_id": 562913374,
+            "distance": 408,
+            "updated_at": 1663448912,
+            "battles": 14,
+            "ship_id": 3969857328,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 389,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 48,
+                    "shots": 248
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 22185,
+                "art_agro": 3346800,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 12,
+                    "shots": 305
+                },
+                "xp": 1941,
+                "survived_battles": 1,
+                "dropped_capture_points": 8,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 500598,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 24,
+                "battles": 6,
+                "max_ships_spotted": 1,
+                "team_capture_points": 239,
+                "frags": 2,
+                "damage_scouting": 27894,
+                "max_total_agro": 1197132,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 14832,
+                "wins": 1,
+                "losses": 5,
+                "damage_dealt": 59462,
+                "max_planes_killed": 13,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 378,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1588155705,
+            "account_id": 562913374,
+            "distance": 99,
+            "updated_at": 1588156550,
+            "battles": 6,
+            "ship_id": 4185863984,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1022,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 109,
+                    "shots": 280
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 7524,
+                "art_agro": 726750,
+                "ships_spotted": 2,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 8,
+                    "shots": 33
+                },
+                "xp": 3098,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 108629,
+                "draws": 0,
+                "battles_since_510": 4,
+                "planes_killed": 0,
+                "battles": 4,
+                "max_ships_spotted": 1,
+                "team_capture_points": 180,
+                "frags": 2,
+                "damage_scouting": 16233,
+                "max_total_agro": 272200,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 14346,
+                "wins": 3,
+                "losses": 1,
+                "damage_dealt": 44510,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 38,
+                "battles_since_512": 4
+            },
+            "last_battle_time": 1576603706,
+            "account_id": 562913374,
+            "distance": 67,
+            "updated_at": 1576604187,
+            "battles": 4,
+            "ship_id": 4292786160,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2101,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 68,
+                    "shots": 243
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 22637,
+                "art_agro": 5170550,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 4743,
+                "survived_battles": 0,
+                "dropped_capture_points": 2,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 94746,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 3,
+                "battles": 3,
+                "max_ships_spotted": 0,
+                "team_capture_points": 420,
+                "frags": 1,
+                "damage_scouting": 32117,
+                "max_total_agro": 2632100,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 79773,
+                "wins": 1,
+                "losses": 2,
+                "damage_dealt": 158680,
+                "max_planes_killed": 3,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 84,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1663528158,
+            "account_id": 562913374,
+            "distance": 113,
+            "updated_at": 1663529012,
+            "battles": 4,
+            "ship_id": 4181669616,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 851,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 61,
+                    "shots": 125
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 2407,
+                "art_agro": 585500,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2523,
+                "survived_battles": 1,
+                "dropped_capture_points": 5,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 245534,
+                "draws": 0,
+                "battles_since_510": 4,
+                "planes_killed": 0,
+                "battles": 4,
+                "max_ships_spotted": 2,
+                "team_capture_points": 360,
+                "frags": 7,
+                "damage_scouting": 2407,
+                "max_total_agro": 315400,
+                "max_frags_battle": 4,
+                "capture_points": 180,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 3,
+                    "frags": 6,
+                    "hits": 16,
+                    "shots": 50
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 49654,
+                "wins": 2,
+                "losses": 2,
+                "damage_dealt": 126762,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 331,
+                "battles_since_512": 4
+            },
+            "last_battle_time": 1597175346,
+            "account_id": 562913374,
+            "distance": 77,
+            "updated_at": 1597176031,
+            "battles": 5,
+            "ship_id": 4187895600,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 668,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 164,
+                    "shots": 388
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 8712,
+                "art_agro": 2550550,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 5,
+                    "shots": 23
+                },
+                "xp": 3007,
+                "survived_battles": 0,
+                "dropped_capture_points": 9,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 299231,
+                "draws": 0,
+                "battles_since_510": 7,
+                "planes_killed": 2,
+                "battles": 7,
+                "max_ships_spotted": 3,
+                "team_capture_points": 540,
+                "frags": 2,
+                "damage_scouting": 11860,
+                "max_total_agro": 664300,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 3,
+                    "shots": 24
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 32535,
+                "wins": 2,
+                "losses": 5,
+                "damage_dealt": 102240,
+                "max_planes_killed": 1,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 585,
+                "battles_since_512": 7
+            },
+            "last_battle_time": 1596542697,
+            "account_id": 562913374,
+            "distance": 98,
+            "updated_at": 1596543557,
+            "battles": 7,
+            "ship_id": 4185831216,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 822,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 151,
+                    "shots": 528
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 27609,
+                "art_agro": 3788550,
+                "ships_spotted": 6,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 7,
+                    "shots": 40
+                },
+                "xp": 6386,
+                "survived_battles": 0,
+                "dropped_capture_points": 59,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 648621,
+                "draws": 0,
+                "battles_since_510": 11,
+                "planes_killed": 59,
+                "battles": 11,
+                "max_ships_spotted": 2,
+                "team_capture_points": 719,
+                "frags": 6,
+                "damage_scouting": 51152,
+                "max_total_agro": 631032,
+                "max_frags_battle": 2,
+                "capture_points": 32,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 9,
+                    "shots": 70
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 55071,
+                "wins": 4,
+                "losses": 7,
+                "damage_dealt": 194904,
+                "max_planes_killed": 35,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 812,
+                "battles_since_512": 11
+            },
+            "last_battle_time": 1581532715,
+            "account_id": 562913374,
+            "distance": 267,
+            "updated_at": 1581533959,
+            "battles": 11,
+            "ship_id": 4185831152,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 684,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 28,
+                    "shots": 57
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 842,
+                "art_agro": 38200,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 684,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 842,
+                "max_total_agro": 38200,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 6269,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 6269,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1576446544,
+            "account_id": 562913374,
+            "distance": 12,
+            "updated_at": 1576446976,
+            "battles": 1,
+            "ship_id": 4293834736,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2616,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 3,
+                    "frags": 24,
+                    "hits": 2267,
+                    "shots": 6099
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 46071,
+                "art_agro": 43189000,
+                "ships_spotted": 19,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 269,
+                    "shots": 1653
+                },
+                "xp": 62287,
+                "survived_battles": 7,
+                "dropped_capture_points": 403,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 2897339,
+                "draws": 0,
+                "battles_since_510": 55,
+                "planes_killed": 165,
+                "battles": 55,
+                "max_ships_spotted": 4,
+                "team_capture_points": 5680,
+                "frags": 32,
+                "damage_scouting": 636594,
+                "max_total_agro": 1821235,
+                "max_frags_battle": 3,
+                "capture_points": 291,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 6,
+                    "hits": 44,
+                    "shots": 668
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 5,
+                "max_damage_dealt": 114252,
+                "wins": 19,
+                "losses": 36,
+                "damage_dealt": 2158731,
+                "max_planes_killed": 20,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 4403,
+                "battles_since_512": 55
+            },
+            "last_battle_time": 1663346233,
+            "account_id": 562913374,
+            "distance": 2507,
+            "updated_at": 1663347049,
+            "battles": 63,
+            "ship_id": 4181636848,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1045,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 139,
+                    "shots": 300
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 15146,
+                "art_agro": 1505450,
+                "ships_spotted": 13,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 5136,
+                "survived_battles": 0,
+                "dropped_capture_points": 10,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 474671,
+                "draws": 0,
+                "battles_since_510": 9,
+                "planes_killed": 0,
+                "battles": 9,
+                "max_ships_spotted": 3,
+                "team_capture_points": 720,
+                "frags": 7,
+                "damage_scouting": 37662,
+                "max_total_agro": 434104,
+                "max_frags_battle": 3,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 2,
+                    "frags": 5,
+                    "hits": 12,
+                    "shots": 100
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 40451,
+                "wins": 8,
+                "losses": 1,
+                "damage_dealt": 128822,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 593,
+                "battles_since_512": 9
+            },
+            "last_battle_time": 1600344581,
+            "account_id": 562913374,
+            "distance": 201,
+            "updated_at": 1600344877,
+            "battles": 10,
+            "ship_id": 4186847024,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2678,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 7,
+                    "hits": 707,
+                    "shots": 2018
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 33689,
+                "art_agro": 17941600,
+                "ships_spotted": 33,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 22,
+                    "shots": 286
+                },
+                "xp": 28599,
+                "survived_battles": 4,
+                "dropped_capture_points": 12,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 917672,
+                "draws": 0,
+                "battles_since_510": 27,
+                "planes_killed": 50,
+                "battles": 27,
+                "max_ships_spotted": 5,
+                "team_capture_points": 2756,
+                "frags": 8,
+                "damage_scouting": 281482,
+                "max_total_agro": 1358400,
+                "max_frags_battle": 2,
+                "capture_points": 322,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 6,
+                    "shots": 309
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 3,
+                "max_damage_dealt": 62377,
+                "wins": 11,
+                "losses": 16,
+                "damage_dealt": 624762,
+                "max_planes_killed": 10,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1734,
+                "battles_since_512": 27
+            },
+            "last_battle_time": 1649341564,
+            "account_id": 562913374,
+            "distance": 898,
+            "updated_at": 1649342332,
+            "battles": 33,
+            "ship_id": 4182685424,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 977,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 5,
+                    "shots": 36
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 8919,
+                "art_agro": 1092200,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 977,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 3,
+                "battles": 1,
+                "max_ships_spotted": 0,
+                "team_capture_points": 120,
+                "frags": 0,
+                "damage_scouting": 8919,
+                "max_total_agro": 1092200,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 4902,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 4902,
+                "max_planes_killed": 3,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 342,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1575658940,
+            "account_id": 562913374,
+            "distance": 14,
+            "updated_at": 1575660159,
+            "battles": 1,
+            "ship_id": 4292818896,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 894,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 122,
+                    "shots": 303
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 1172,
+                "art_agro": 899900,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 4,
+                    "shots": 28
+                },
+                "xp": 1735,
+                "survived_battles": 0,
+                "dropped_capture_points": 5,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 85732,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 0,
+                "team_capture_points": 241,
+                "frags": 2,
+                "damage_scouting": 2000,
+                "max_total_agro": 441200,
+                "max_frags_battle": 1,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 30804,
+                "wins": 2,
+                "losses": 1,
+                "damage_dealt": 66912,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 195,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1600722131,
+            "account_id": 562913374,
+            "distance": 73,
+            "updated_at": 1600722591,
+            "battles": 4,
+            "ship_id": 4186879440,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1352,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 44,
+                    "shots": 168
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 3471,
+                "art_agro": 13100,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 17
+                },
+                "xp": 1352,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 3,
+                "battles": 1,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 3471,
+                "max_total_agro": 13100,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 55182,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 55182,
+                "max_planes_killed": 3,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1613935275,
+            "account_id": 562913374,
+            "distance": 27,
+            "updated_at": 1613936025,
+            "battles": 1,
+            "ship_id": 4185863920,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 609,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 51,
+                    "shots": 98
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 6135,
+                "art_agro": 110200,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 609,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 180,
+                "frags": 1,
+                "damage_scouting": 6135,
+                "max_total_agro": 110200,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 9163,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 9163,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1580576816,
+            "account_id": 562913374,
+            "distance": 18,
+            "updated_at": 1580577578,
+            "battles": 1,
+            "ship_id": 4188976592,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2560,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 4,
+                    "frags": 21,
+                    "hits": 479,
+                    "shots": 1956
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 42969,
+                "art_agro": 13250750,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 50,
+                    "shots": 319
+                },
+                "xp": 19800,
+                "survived_battles": 8,
+                "dropped_capture_points": 77,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1309449,
+                "draws": 0,
+                "battles_since_510": 15,
+                "planes_killed": 67,
+                "battles": 15,
+                "max_ships_spotted": 1,
+                "team_capture_points": 1223,
+                "frags": 23,
+                "damage_scouting": 185257,
+                "max_total_agro": 1738296,
+                "max_frags_battle": 5,
+                "capture_points": 87,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 8,
+                "max_damage_dealt": 134005,
+                "wins": 10,
+                "losses": 5,
+                "damage_dealt": 821166,
+                "max_planes_killed": 35,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 955,
+                "battles_since_512": 15
+            },
+            "last_battle_time": 1663344925,
+            "account_id": 562913374,
+            "distance": 568,
+            "updated_at": 1663345534,
+            "battles": 21,
+            "ship_id": 4259264496,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2033,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 5,
+                    "hits": 253,
+                    "shots": 650
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 47408,
+                "art_agro": 6283800,
+                "ships_spotted": 39,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 27853,
+                "survived_battles": 6,
+                "dropped_capture_points": 57,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 888775,
+                "draws": 0,
+                "battles_since_510": 25,
+                "planes_killed": 8,
+                "battles": 25,
+                "max_ships_spotted": 6,
+                "team_capture_points": 2582,
+                "frags": 16,
+                "damage_scouting": 298903,
+                "max_total_agro": 713800,
+                "max_frags_battle": 3,
+                "capture_points": 640,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 2,
+                    "frags": 10,
+                    "hits": 38,
+                    "shots": 702
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 6,
+                "max_damage_dealt": 69624,
+                "wins": 15,
+                "losses": 10,
+                "damage_dealt": 450744,
+                "max_planes_killed": 4,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1421,
+                "battles_since_512": 25
+            },
+            "last_battle_time": 1579634994,
+            "account_id": 562913374,
+            "distance": 854,
+            "updated_at": 1579635620,
+            "battles": 26,
+            "ship_id": 4183701200,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1464,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 57,
+                    "shots": 153
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 7812,
+                "art_agro": 612400,
+                "ships_spotted": 8,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 14,
+                    "shots": 90
+                },
+                "xp": 2796,
+                "survived_battles": 2,
+                "dropped_capture_points": 14,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 142397,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 0,
+                "battles": 6,
+                "max_ships_spotted": 5,
+                "team_capture_points": 419,
+                "frags": 4,
+                "damage_scouting": 10148,
+                "max_total_agro": 350000,
+                "max_frags_battle": 3,
+                "capture_points": 15,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 3,
+                    "frags": 3,
+                    "hits": 10,
+                    "shots": 116
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 19282,
+                "wins": 2,
+                "losses": 4,
+                "damage_dealt": 62848,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 282,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1559666679,
+            "account_id": 562913374,
+            "distance": 144,
+            "updated_at": 1559667057,
+            "battles": 8,
+            "ship_id": 4292753104,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1044,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 88597,
+                "art_agro": 78850,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1044,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 180,
+                "frags": 0,
+                "damage_scouting": 88597,
+                "max_total_agro": 78850,
+                "max_frags_battle": 0,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 8,
+                    "shots": 22
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 41079,
+                "wins": 0,
+                "losses": 1,
+                "damage_dealt": 41079,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 171,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1650990529,
+            "account_id": 562913374,
+            "distance": 108,
+            "updated_at": 1650991393,
+            "battles": 5,
+            "ship_id": 4181112624,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1188,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 310,
+                    "shots": 921
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 5598,
+                "art_agro": 1253750,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 7,
+                    "shots": 32
+                },
+                "xp": 4205,
+                "survived_battles": 2,
+                "dropped_capture_points": 118,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 243800,
+                "draws": 0,
+                "battles_since_510": 5,
+                "planes_killed": 0,
+                "battles": 5,
+                "max_ships_spotted": 1,
+                "team_capture_points": 419,
+                "frags": 2,
+                "damage_scouting": 6719,
+                "max_total_agro": 453700,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 35971,
+                "wins": 3,
+                "losses": 2,
+                "damage_dealt": 89722,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 278,
+                "battles_since_512": 5
+            },
+            "last_battle_time": 1577791310,
+            "account_id": 562913374,
+            "distance": 128,
+            "updated_at": 1577792290,
+            "battles": 5,
+            "ship_id": 4290689008,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1731,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 75621,
+                "art_agro": 142800,
+                "ships_spotted": 2,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 3305,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 333102,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 1,
+                "team_capture_points": 601,
+                "frags": 1,
+                "damage_scouting": 76513,
+                "max_total_agro": 212402,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 6,
+                    "shots": 60
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 40199,
+                "wins": 3,
+                "losses": 0,
+                "damage_dealt": 46525,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 272,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1651077554,
+            "account_id": 562913374,
+            "distance": 64,
+            "updated_at": 1651078755,
+            "battles": 3,
+            "ship_id": 4179015472,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1809,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 7,
+                    "hits": 544,
+                    "shots": 3248
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 25738,
+                "art_agro": 21443300,
+                "ships_spotted": 4,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 34,
+                    "shots": 155
+                },
+                "xp": 26342,
+                "survived_battles": 4,
+                "dropped_capture_points": 74,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1434665,
+                "draws": 0,
+                "battles_since_510": 24,
+                "planes_killed": 50,
+                "battles": 24,
+                "max_ships_spotted": 2,
+                "team_capture_points": 2039,
+                "frags": 7,
+                "damage_scouting": 208124,
+                "max_total_agro": 2322500,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 67926,
+                "wins": 10,
+                "losses": 14,
+                "damage_dealt": 699687,
+                "max_planes_killed": 7,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1659,
+                "battles_since_512": 24
+            },
+            "last_battle_time": 1579356916,
+            "account_id": 562913374,
+            "distance": 770,
+            "updated_at": 1579357878,
+            "battles": 28,
+            "ship_id": 4288624336,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1655,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 174,
+                    "shots": 638
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 28486,
+                "art_agro": 7789200,
+                "ships_spotted": 7,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 24,
+                    "shots": 120
+                },
+                "xp": 14109,
+                "survived_battles": 0,
+                "dropped_capture_points": 18,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 580509,
+                "draws": 0,
+                "battles_since_510": 13,
+                "planes_killed": 39,
+                "battles": 13,
+                "max_ships_spotted": 2,
+                "team_capture_points": 1320,
+                "frags": 3,
+                "damage_scouting": 73507,
+                "max_total_agro": 1215000,
+                "max_frags_battle": 1,
+                "capture_points": 96,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 5,
+                    "shots": 90
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 41848,
+                "wins": 7,
+                "losses": 6,
+                "damage_dealt": 194633,
+                "max_planes_killed": 12,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1016,
+                "battles_since_512": 13
+            },
+            "last_battle_time": 1614006122,
+            "account_id": 562913374,
+            "distance": 1298,
+            "updated_at": 1614007324,
+            "battles": 61,
+            "ship_id": 4183734000,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1192,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 28,
+                    "shots": 72
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 7482,
+                "art_agro": 382800,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1192,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 213903,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 1,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 180,
+                "frags": 0,
+                "damage_scouting": 7482,
+                "max_total_agro": 596703,
+                "max_frags_battle": 0,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 4
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 11117,
+                "wins": 0,
+                "losses": 1,
+                "damage_dealt": 11117,
+                "max_planes_killed": 1,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 25,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1600720963,
+            "account_id": 562913374,
+            "distance": 47,
+            "updated_at": 1600721320,
+            "battles": 2,
+            "ship_id": 3752736720,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 715,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 3,
+                    "frags": 4,
+                    "hits": 145,
+                    "shots": 252
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 1436,
+                "art_agro": 725200,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 22,
+                    "shots": 164
+                },
+                "xp": 3048,
+                "survived_battles": 2,
+                "dropped_capture_points": 63,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 116665,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 0,
+                "battles": 6,
+                "max_ships_spotted": 2,
+                "team_capture_points": 180,
+                "frags": 5,
+                "damage_scouting": 3862,
+                "max_total_agro": 197598,
+                "max_frags_battle": 3,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 21364,
+                "wins": 4,
+                "losses": 2,
+                "damage_dealt": 82720,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 582,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1559488192,
+            "account_id": 562913374,
+            "distance": 106,
+            "updated_at": 1559488522,
+            "battles": 9,
+            "ship_id": 4258182864,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2532,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 35,
+                    "hits": 1947,
+                    "shots": 6800
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 71975,
+                "art_agro": 136236760,
+                "ships_spotted": 63,
+                "second_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 17,
+                    "hits": 8198,
+                    "shots": 42036
+                },
+                "xp": 127505,
+                "survived_battles": 17,
+                "dropped_capture_points": 457,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 13734381,
+                "draws": 0,
+                "battles_since_510": 112,
+                "planes_killed": 388,
+                "battles": 112,
+                "max_ships_spotted": 5,
+                "team_capture_points": 15037,
+                "frags": 64,
+                "damage_scouting": 2105315,
+                "max_total_agro": 4379600,
+                "max_frags_battle": 4,
+                "capture_points": 371,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 1,
+                    "frags": 3
+                },
+                "survived_wins": 16,
+                "max_damage_dealt": 152333,
+                "wins": 62,
+                "losses": 50,
+                "damage_dealt": 5840460,
+                "max_planes_killed": 31,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 8149,
+                "battles_since_512": 112
+            },
+            "last_battle_time": 1663344305,
+            "account_id": 562913374,
+            "distance": 3460,
+            "updated_at": 1663345176,
+            "battles": 129,
+            "ship_id": 4180621104,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1207,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 10,
+                    "hits": 216,
+                    "shots": 806
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 3035,
+                "art_agro": 3626900,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 130,
+                    "shots": 764
+                },
+                "xp": 6239,
+                "survived_battles": 6,
+                "dropped_capture_points": 48,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 188733,
+                "draws": 0,
+                "battles_since_510": 10,
+                "planes_killed": 0,
+                "battles": 10,
+                "max_ships_spotted": 1,
+                "team_capture_points": 480,
+                "frags": 18,
+                "damage_scouting": 7188,
+                "max_total_agro": 728902,
+                "max_frags_battle": 4,
+                "capture_points": 213,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 68825,
+                "wins": 4,
+                "losses": 6,
+                "damage_dealt": 309730,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 634,
+                "battles_since_512": 10
+            },
+            "last_battle_time": 1559662667,
+            "account_id": 562913374,
+            "distance": 368,
+            "updated_at": 1559663716,
+            "battles": 16,
+            "ship_id": 4293867216,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1185,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 33240,
+                "art_agro": 2217400,
+                "ships_spotted": 43,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 4,
+                    "shots": 27
+                },
+                "xp": 10660,
+                "survived_battles": 6,
+                "dropped_capture_points": 41,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 351433,
+                "draws": 0,
+                "battles_since_510": 15,
+                "planes_killed": 10,
+                "battles": 15,
+                "max_ships_spotted": 6,
+                "team_capture_points": 1141,
+                "frags": 3,
+                "damage_scouting": 151643,
+                "max_total_agro": 622100,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 1,
+                    "frags": 3
+                },
+                "survived_wins": 5,
+                "max_damage_dealt": 43891,
+                "wins": 6,
+                "losses": 9,
+                "damage_dealt": 356618,
+                "max_planes_killed": 9,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1216,
+                "battles_since_512": 15
+            },
+            "last_battle_time": 1577391337,
+            "account_id": 562913374,
+            "distance": 301,
+            "updated_at": 1577392130,
+            "battles": 15,
+            "ship_id": 4185896656,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 918,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 38,
+                    "shots": 96
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 487,
+                "art_agro": 115400,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 918,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 3,
+                "team_capture_points": 180,
+                "frags": 2,
+                "damage_scouting": 487,
+                "max_total_agro": 115400,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 7998,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 7998,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 116,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1575320771,
+            "account_id": 562913374,
+            "distance": 18,
+            "updated_at": 1575321444,
+            "battles": 1,
+            "ship_id": 4188976880,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 558,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 11,
+                    "shots": 26
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 19304,
+                "art_agro": 507300,
+                "ships_spotted": 6,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1018,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 241803,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 5,
+                "team_capture_points": 241,
+                "frags": 0,
+                "damage_scouting": 23609,
+                "max_total_agro": 555802,
+                "max_frags_battle": 0,
+                "capture_points": 60,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 15
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 3548,
+                "wins": 0,
+                "losses": 2,
+                "damage_dealt": 6387,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 28,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1599915466,
+            "account_id": 562913374,
+            "distance": 28,
+            "updated_at": 1599916457,
+            "battles": 2,
+            "ship_id": 4078843600,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1441,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 92,
+                    "shots": 267
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 24599,
+                "art_agro": 1968050,
+                "ships_spotted": 5,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 4959,
+                "survived_battles": 1,
+                "dropped_capture_points": 10,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 195563,
+                "draws": 0,
+                "battles_since_510": 7,
+                "planes_killed": 1,
+                "battles": 7,
+                "max_ships_spotted": 2,
+                "team_capture_points": 479,
+                "frags": 3,
+                "damage_scouting": 38189,
+                "max_total_agro": 489350,
+                "max_frags_battle": 2,
+                "capture_points": 42,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 3,
+                    "shots": 38
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 24537,
+                "wins": 3,
+                "losses": 4,
+                "damage_dealt": 85048,
+                "max_planes_killed": 1,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 461,
+                "battles_since_512": 7
+            },
+            "last_battle_time": 1575836053,
+            "account_id": 562913374,
+            "distance": 138,
+            "updated_at": 1575836706,
+            "battles": 7,
+            "ship_id": 4186879728,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 472,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 94,
+                    "shots": 230
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 2010,
+                "art_agro": 974350,
+                "ships_spotted": 4,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 4,
+                    "shots": 28
+                },
+                "xp": 2006,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 106000,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 0,
+                "battles": 6,
+                "max_ships_spotted": 2,
+                "team_capture_points": 121,
+                "frags": 1,
+                "damage_scouting": 7278,
+                "max_total_agro": 245900,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 14780,
+                "wins": 0,
+                "losses": 6,
+                "damage_dealt": 46474,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 205,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1575571650,
+            "account_id": 562913374,
+            "distance": 76,
+            "updated_at": 1575572074,
+            "battles": 6,
+            "ship_id": 4187928304,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1264,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 97,
+                    "shots": 402
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 9646,
+                "art_agro": 881800,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 3,
+                    "shots": 7
+                },
+                "xp": 1513,
+                "survived_battles": 0,
+                "dropped_capture_points": 8,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 83200,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 0,
+                "team_capture_points": 180,
+                "frags": 2,
+                "damage_scouting": 16774,
+                "max_total_agro": 546800,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 47589,
+                "wins": 1,
+                "losses": 1,
+                "damage_dealt": 54344,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 509,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1576703907,
+            "account_id": 562913374,
+            "distance": 50,
+            "updated_at": 1576704868,
+            "battles": 2,
+            "ship_id": 3767449584,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1794,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 108,
+                    "shots": 268
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 24481,
+                "art_agro": 1833400,
+                "ships_spotted": 16,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 8396,
+                "survived_battles": 1,
+                "dropped_capture_points": 47,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 531228,
+                "draws": 0,
+                "battles_since_510": 9,
+                "planes_killed": 14,
+                "battles": 9,
+                "max_ships_spotted": 4,
+                "team_capture_points": 900,
+                "frags": 4,
+                "damage_scouting": 86010,
+                "max_total_agro": 496598,
+                "max_frags_battle": 1,
+                "capture_points": 420,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 7,
+                    "shots": 168
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 33830,
+                "wins": 3,
+                "losses": 6,
+                "damage_dealt": 93694,
+                "max_planes_killed": 13,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1044,
+                "battles_since_512": 9
+            },
+            "last_battle_time": 1582386672,
+            "account_id": 562913374,
+            "distance": 493,
+            "updated_at": 1582387818,
+            "battles": 21,
+            "ship_id": 4280170480,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 539,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 20,
+                    "shots": 44
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 3086,
+                "art_agro": 1549950,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 8,
+                    "shots": 90
+                },
+                "xp": 818,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 74069,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 0,
+                "team_capture_points": 180,
+                "frags": 0,
+                "damage_scouting": 3086,
+                "max_total_agro": 1053119,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 20679,
+                "wins": 1,
+                "losses": 1,
+                "damage_dealt": 27930,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 3,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1652720029,
+            "account_id": 562913374,
+            "distance": 31,
+            "updated_at": 1652720954,
+            "battles": 2,
+            "ship_id": 4082054960,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1284,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 18691,
+                "art_agro": 423400,
+                "ships_spotted": 9,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1929,
+                "survived_battles": 1,
+                "dropped_capture_points": 134,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 83400,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 12,
+                "battles": 2,
+                "max_ships_spotted": 6,
+                "team_capture_points": 180,
+                "frags": 4,
+                "damage_scouting": 24981,
+                "max_total_agro": 486800,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 2,
+                    "frags": 2
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 54751,
+                "wins": 1,
+                "losses": 1,
+                "damage_dealt": 98374,
+                "max_planes_killed": 12,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 428,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1652721063,
+            "account_id": 562913374,
+            "distance": 40,
+            "updated_at": 1652721995,
+            "battles": 2,
+            "ship_id": 4081039312,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 822,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 49,
+                    "shots": 255
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 3051,
+                "art_agro": 191650,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1636,
+                "survived_battles": 1,
+                "dropped_capture_points": 1,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 128266,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 2,
+                "team_capture_points": 540,
+                "frags": 2,
+                "damage_scouting": 5120,
+                "max_total_agro": 195616,
+                "max_frags_battle": 2,
+                "capture_points": 106,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 14754,
+                "wins": 3,
+                "losses": 0,
+                "damage_dealt": 21768,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 56,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1581449153,
+            "account_id": 562913374,
+            "distance": 46,
+            "updated_at": 1581449879,
+            "battles": 3,
+            "ship_id": 4187928016,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 710,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 159,
+                    "shots": 479
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 6416,
+                "art_agro": 903200,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2700,
+                "survived_battles": 1,
+                "dropped_capture_points": 3,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 202933,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 0,
+                "battles": 6,
+                "max_ships_spotted": 2,
+                "team_capture_points": 179,
+                "frags": 1,
+                "damage_scouting": 11789,
+                "max_total_agro": 254267,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 22348,
+                "wins": 2,
+                "losses": 4,
+                "damage_dealt": 91421,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 229,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1600716142,
+            "account_id": 562913374,
+            "distance": 85,
+            "updated_at": 1600716388,
+            "battles": 6,
+            "ship_id": 4187928400,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 0,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 0,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 0,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 0,
+                "planes_killed": 0,
+                "battles": 0,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 0,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 0,
+                "wins": 0,
+                "losses": 0,
+                "damage_dealt": 0,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 0
+            },
+            "last_battle_time": 1600862699,
+            "account_id": 562913374,
+            "distance": 26,
+            "updated_at": 1600863135,
+            "battles": 2,
+            "ship_id": 4288624624,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1258,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 39,
+                    "shots": 88
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 6966,
+                "art_agro": 550700,
+                "ships_spotted": 2,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1513,
+                "survived_battles": 0,
+                "dropped_capture_points": 16,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 6000,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 2,
+                "team_capture_points": 181,
+                "frags": 0,
+                "damage_scouting": 12954,
+                "max_total_agro": 336800,
+                "max_frags_battle": 0,
+                "capture_points": 48,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 2,
+                    "shots": 24
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 20662,
+                "wins": 1,
+                "losses": 1,
+                "damage_dealt": 28326,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 352,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1614617785,
+            "account_id": 562913374,
+            "distance": 70,
+            "updated_at": 1614618694,
+            "battles": 2,
+            "ship_id": 4185798448,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 896,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 2,
+                    "hits": 26,
+                    "shots": 85
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 1858,
+                "art_agro": 1006700,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 20
+                },
+                "xp": 896,
+                "survived_battles": 0,
+                "dropped_capture_points": 4,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 129996,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 240,
+                "frags": 2,
+                "damage_scouting": 1858,
+                "max_total_agro": 1136696,
+                "max_frags_battle": 2,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 38490,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 38490,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 6,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1614640610,
+            "account_id": 562913374,
+            "distance": 22,
+            "updated_at": 1614641482,
+            "battles": 1,
+            "ship_id": 4184815344,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 0,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 0,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 0,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 0,
+                "planes_killed": 0,
+                "battles": 0,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 0,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 0,
+                "wins": 0,
+                "losses": 0,
+                "damage_dealt": 0,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 0
+            },
+            "last_battle_time": 1559470579,
+            "account_id": 562913374,
+            "distance": 21,
+            "updated_at": 1559470944,
+            "battles": 2,
+            "ship_id": 4256085712,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1210,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 12,
+                    "shots": 22
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 15958,
+                "art_agro": 561600,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 16
+                },
+                "xp": 1210,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 46299,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 180,
+                "frags": 0,
+                "damage_scouting": 15958,
+                "max_total_agro": 607899,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 4
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 14078,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 14078,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 17,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1582491079,
+            "account_id": 562913374,
+            "distance": 58,
+            "updated_at": 1582491792,
+            "battles": 3,
+            "ship_id": 4079925200,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 3069,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 4,
+                    "frags": 49,
+                    "hits": 2786,
+                    "shots": 9826
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 132065,
+                "art_agro": 157145250,
+                "ships_spotted": 32,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 14,
+                    "hits": 5279,
+                    "shots": 29154
+                },
+                "xp": 140395,
+                "survived_battles": 27,
+                "dropped_capture_points": 445,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 12374978,
+                "draws": 0,
+                "battles_since_510": 125,
+                "planes_killed": 399,
+                "battles": 125,
+                "max_ships_spotted": 5,
+                "team_capture_points": 14617,
+                "frags": 77,
+                "damage_scouting": 2236729,
+                "max_total_agro": 3334200,
+                "max_frags_battle": 5,
+                "capture_points": 464,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 3
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 23,
+                "max_damage_dealt": 130874,
+                "wins": 61,
+                "losses": 64,
+                "damage_dealt": 5562877,
+                "max_planes_killed": 30,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 7057,
+                "battles_since_512": 125
+            },
+            "last_battle_time": 1615822395,
+            "account_id": 562913374,
+            "distance": 5993,
+            "updated_at": 1615823524,
+            "battles": 228,
+            "ship_id": 4181669680,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2144,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 9,
+                    "hits": 414,
+                    "shots": 1580
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 46853,
+                "art_agro": 10711700,
+                "ships_spotted": 5,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 39,
+                    "shots": 416
+                },
+                "xp": 19408,
+                "survived_battles": 5,
+                "dropped_capture_points": 127,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1489552,
+                "draws": 0,
+                "battles_since_510": 18,
+                "planes_killed": 20,
+                "battles": 18,
+                "max_ships_spotted": 2,
+                "team_capture_points": 1788,
+                "frags": 10,
+                "damage_scouting": 250638,
+                "max_total_agro": 1101100,
+                "max_frags_battle": 2,
+                "capture_points": 51,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 83991,
+                "wins": 10,
+                "losses": 8,
+                "damage_dealt": 650067,
+                "max_planes_killed": 6,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1286,
+                "battles_since_512": 18
+            },
+            "last_battle_time": 1652274037,
+            "account_id": 562913374,
+            "distance": 526,
+            "updated_at": 1652274297,
+            "battles": 26,
+            "ship_id": 4184815440,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1057,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 114,
+                    "shots": 270
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 21510,
+                "art_agro": 1275300,
+                "ships_spotted": 14,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 4795,
+                "survived_battles": 4,
+                "dropped_capture_points": 46,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 231269,
+                "draws": 0,
+                "battles_since_510": 9,
+                "planes_killed": 0,
+                "battles": 9,
+                "max_ships_spotted": 5,
+                "team_capture_points": 480,
+                "frags": 13,
+                "damage_scouting": 35003,
+                "max_total_agro": 285699,
+                "max_frags_battle": 3,
+                "capture_points": 295,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 3,
+                    "frags": 10,
+                    "hits": 23,
+                    "shots": 236
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 3,
+                "max_damage_dealt": 51254,
+                "wins": 5,
+                "losses": 4,
+                "damage_dealt": 159337,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 367,
+                "battles_since_512": 9
+            },
+            "last_battle_time": 1559928567,
+            "account_id": 562913374,
+            "distance": 291,
+            "updated_at": 1559929336,
+            "battles": 9,
+            "ship_id": 4269684432,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1798,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 102984,
+                "art_agro": 2579800,
+                "ships_spotted": 58,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 50,
+                    "shots": 256
+                },
+                "xp": 8577,
+                "survived_battles": 3,
+                "dropped_capture_points": 59,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 253928,
+                "draws": 0,
+                "battles_since_510": 8,
+                "planes_killed": 16,
+                "battles": 8,
+                "max_ships_spotted": 10,
+                "team_capture_points": 959,
+                "frags": 9,
+                "damage_scouting": 228908,
+                "max_total_agro": 962700,
+                "max_frags_battle": 4,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 4,
+                    "frags": 8
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 98148,
+                "wins": 5,
+                "losses": 3,
+                "damage_dealt": 283991,
+                "max_planes_killed": 8,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 358,
+                "battles_since_512": 8
+            },
+            "last_battle_time": 1663433675,
+            "account_id": 562913374,
+            "distance": 334,
+            "updated_at": 1663434766,
+            "battles": 11,
+            "ship_id": 4183799600,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1316,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 34,
+                    "shots": 90
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 2134,
+                "art_agro": 515800,
+                "ships_spotted": 12,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2911,
+                "survived_battles": 0,
+                "dropped_capture_points": 13,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 135200,
+                "draws": 0,
+                "battles_since_510": 4,
+                "planes_killed": 0,
+                "battles": 4,
+                "max_ships_spotted": 6,
+                "team_capture_points": 0,
+                "frags": 5,
+                "damage_scouting": 5012,
+                "max_total_agro": 351400,
+                "max_frags_battle": 3,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 5,
+                    "shots": 72
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 25555,
+                "wins": 1,
+                "losses": 3,
+                "damage_dealt": 48311,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 118,
+                "battles_since_512": 4
+            },
+            "last_battle_time": 1577790898,
+            "account_id": 562913374,
+            "distance": 54,
+            "updated_at": 1577791389,
+            "battles": 4,
+            "ship_id": 4266538992,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1053,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 88,
+                    "shots": 598
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 1695,
+                "art_agro": 366950,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2404,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 176532,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 0,
+                "team_capture_points": 60,
+                "frags": 1,
+                "damage_scouting": 2656,
+                "max_total_agro": 296599,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 11709,
+                "wins": 2,
+                "losses": 1,
+                "damage_dealt": 31794,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 155,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1577477554,
+            "account_id": 562913374,
+            "distance": 60,
+            "updated_at": 1577478220,
+            "battles": 3,
+            "ship_id": 4292785968,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1129,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 3,
+                    "frags": 3,
+                    "hits": 44,
+                    "shots": 136
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 370,
+                "art_agro": 114000,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1250,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 3,
+                "damage_scouting": 370,
+                "max_total_agro": 73450,
+                "max_frags_battle": 3,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 8646,
+                "wins": 1,
+                "losses": 1,
+                "damage_dealt": 9537,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1577187149,
+            "account_id": 562913374,
+            "distance": 34,
+            "updated_at": 1577187594,
+            "battles": 2,
+            "ship_id": 4293834544,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2368,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 23,
+                    "hits": 2334,
+                    "shots": 9144
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 88379,
+                "art_agro": 105942800,
+                "ships_spotted": 63,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 300,
+                    "shots": 2728
+                },
+                "xp": 90630,
+                "survived_battles": 12,
+                "dropped_capture_points": 266,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 7431467,
+                "draws": 0,
+                "battles_since_510": 78,
+                "planes_killed": 254,
+                "battles": 78,
+                "max_ships_spotted": 5,
+                "team_capture_points": 10900,
+                "frags": 28,
+                "damage_scouting": 1734961,
+                "max_total_agro": 2803198,
+                "max_frags_battle": 2,
+                "capture_points": 286,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 11,
+                "max_damage_dealt": 132153,
+                "wins": 38,
+                "losses": 40,
+                "damage_dealt": 3043066,
+                "max_planes_killed": 31,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 5780,
+                "battles_since_512": 78
+            },
+            "last_battle_time": 1663449002,
+            "account_id": 562913374,
+            "distance": 3266,
+            "updated_at": 1663449756,
+            "battles": 125,
+            "ship_id": 3655251952,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1647,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 171,
+                    "shots": 436
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 26015,
+                "art_agro": 8109000,
+                "ships_spotted": 6,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 21
+                },
+                "xp": 11390,
+                "survived_battles": 0,
+                "dropped_capture_points": 5,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1072311,
+                "draws": 0,
+                "battles_since_510": 14,
+                "planes_killed": 2,
+                "battles": 14,
+                "max_ships_spotted": 2,
+                "team_capture_points": 1110,
+                "frags": 6,
+                "damage_scouting": 126679,
+                "max_total_agro": 999800,
+                "max_frags_battle": 2,
+                "capture_points": 26,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 7,
+                    "shots": 112
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 35908,
+                "wins": 8,
+                "losses": 6,
+                "damage_dealt": 189424,
+                "max_planes_killed": 2,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1156,
+                "battles_since_512": 14
+            },
+            "last_battle_time": 1599759070,
+            "account_id": 562913374,
+            "distance": 679,
+            "updated_at": 1599760050,
+            "battles": 34,
+            "ship_id": 4289640144,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2314,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 299,
+                    "shots": 858
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 33350,
+                "art_agro": 3033400,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 9,
+                    "shots": 39
+                },
+                "xp": 8355,
+                "survived_battles": 4,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 147033,
+                "draws": 0,
+                "battles_since_510": 5,
+                "planes_killed": 28,
+                "battles": 5,
+                "max_ships_spotted": 0,
+                "team_capture_points": 300,
+                "frags": 2,
+                "damage_scouting": 65655,
+                "max_total_agro": 1595800,
+                "max_frags_battle": 1,
+                "capture_points": 33,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 68
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 75230,
+                "wins": 4,
+                "losses": 1,
+                "damage_dealt": 207520,
+                "max_planes_killed": 17,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 75,
+                "battles_since_512": 5
+            },
+            "last_battle_time": 1664291309,
+            "account_id": 562913374,
+            "distance": 284,
+            "updated_at": 1664291796,
+            "battles": 6,
+            "ship_id": 4180588272,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2631,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 115,
+                    "shots": 256
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 90204,
+                "art_agro": 2471250,
+                "ships_spotted": 27,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 13771,
+                "survived_battles": 2,
+                "dropped_capture_points": 10,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 829867,
+                "draws": 0,
+                "battles_since_510": 10,
+                "planes_killed": 0,
+                "battles": 10,
+                "max_ships_spotted": 6,
+                "team_capture_points": 1019,
+                "frags": 14,
+                "damage_scouting": 183936,
+                "max_total_agro": 727700,
+                "max_frags_battle": 3,
+                "capture_points": 393,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 3,
+                    "frags": 10,
+                    "hits": 36,
+                    "shots": 382
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 62541,
+                "wins": 6,
+                "losses": 4,
+                "damage_dealt": 290906,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 468,
+                "battles_since_512": 10
+            },
+            "last_battle_time": 1580241194,
+            "account_id": 562913374,
+            "distance": 365,
+            "updated_at": 1580242084,
+            "battles": 10,
+            "ship_id": 4290655952,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1214,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 7,
+                    "hits": 409,
+                    "shots": 1482
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 52279,
+                "art_agro": 15661200,
+                "ships_spotted": 8,
+                "second_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 3,
+                    "hits": 314,
+                    "shots": 1439
+                },
+                "xp": 12298,
+                "survived_battles": 2,
+                "dropped_capture_points": 115,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1902190,
+                "draws": 0,
+                "battles_since_510": 21,
+                "planes_killed": 63,
+                "battles": 21,
+                "max_ships_spotted": 3,
+                "team_capture_points": 1838,
+                "frags": 12,
+                "damage_scouting": 259697,
+                "max_total_agro": 1705900,
+                "max_frags_battle": 2,
+                "capture_points": 215,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 59885,
+                "wins": 5,
+                "losses": 16,
+                "damage_dealt": 588626,
+                "max_planes_killed": 18,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1720,
+                "battles_since_512": 21
+            },
+            "last_battle_time": 1596543194,
+            "account_id": 562913374,
+            "distance": 443,
+            "updated_at": 1596543887,
+            "battles": 21,
+            "ship_id": 4184815408,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 91,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 11
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 62700,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 91,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 0,
+                "battles": 1,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 62700,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 17,
+                "wins": 0,
+                "losses": 1,
+                "damage_dealt": 17,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1582052892,
+            "account_id": 562913374,
+            "distance": 16,
+            "updated_at": 1582053133,
+            "battles": 2,
+            "ship_id": 4188976976,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 0,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 0,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 0,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 0,
+                "planes_killed": 0,
+                "battles": 0,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 0,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 0,
+                "wins": 0,
+                "losses": 0,
+                "damage_dealt": 0,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 0
+            },
+            "last_battle_time": 1652718873,
+            "account_id": 562913374,
+            "distance": 286,
+            "updated_at": 1652719317,
+            "battles": 13,
+            "ship_id": 4182652624,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 678,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 56,
+                    "shots": 148
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 22735,
+                "art_agro": 2237900,
+                "ships_spotted": 2,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2134,
+                "survived_battles": 0,
+                "dropped_capture_points": 15,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 154068,
+                "draws": 0,
+                "battles_since_510": 4,
+                "planes_killed": 2,
+                "battles": 4,
+                "max_ships_spotted": 2,
+                "team_capture_points": 360,
+                "frags": 1,
+                "damage_scouting": 52685,
+                "max_total_agro": 734634,
+                "max_frags_battle": 1,
+                "capture_points": 39,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 1,
+                    "shots": 24
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 23461,
+                "wins": 0,
+                "losses": 4,
+                "damage_dealt": 59133,
+                "max_planes_killed": 2,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 536,
+                "battles_since_512": 4
+            },
+            "last_battle_time": 1599915754,
+            "account_id": 562913374,
+            "distance": 98,
+            "updated_at": 1599916718,
+            "battles": 4,
+            "ship_id": 4287542992,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1608,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 142,
+                    "shots": 548
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 6824,
+                "art_agro": 2487150,
+                "ships_spotted": 3,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 4960,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 246030,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 5,
+                "battles": 6,
+                "max_ships_spotted": 1,
+                "team_capture_points": 481,
+                "frags": 4,
+                "damage_scouting": 15489,
+                "max_total_agro": 721700,
+                "max_frags_battle": 2,
+                "capture_points": 82,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 2,
+                    "shots": 72
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 33993,
+                "wins": 2,
+                "losses": 4,
+                "damage_dealt": 82455,
+                "max_planes_killed": 2,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 521,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1579898360,
+            "account_id": 562913374,
+            "distance": 179,
+            "updated_at": 1579899325,
+            "battles": 7,
+            "ship_id": 4281251536,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1094,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 10,
+                    "hits": 372,
+                    "shots": 960
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 13181,
+                "art_agro": 7376800,
+                "ships_spotted": 6,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 280,
+                    "shots": 1365
+                },
+                "xp": 11267,
+                "survived_battles": 7,
+                "dropped_capture_points": 147,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 158198,
+                "draws": 0,
+                "battles_since_510": 15,
+                "planes_killed": 10,
+                "battles": 15,
+                "max_ships_spotted": 2,
+                "team_capture_points": 720,
+                "frags": 15,
+                "damage_scouting": 29285,
+                "max_total_agro": 1464700,
+                "max_frags_battle": 2,
+                "capture_points": 127,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 7,
+                "max_damage_dealt": 72948,
+                "wins": 10,
+                "losses": 5,
+                "damage_dealt": 646416,
+                "max_planes_killed": 10,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 716,
+                "battles_since_512": 15
+            },
+            "last_battle_time": 1559937961,
+            "account_id": 562913374,
+            "distance": 392,
+            "updated_at": 1559938676,
+            "battles": 15,
+            "ship_id": 4291770064,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 3198,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 74111,
+                "art_agro": 3939800,
+                "ships_spotted": 275,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 25,
+                    "shots": 256
+                },
+                "xp": 51707,
+                "survived_battles": 28,
+                "dropped_capture_points": 450,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 479235,
+                "draws": 0,
+                "battles_since_510": 40,
+                "planes_killed": 161,
+                "battles": 40,
+                "max_ships_spotted": 11,
+                "team_capture_points": 4262,
+                "frags": 25,
+                "damage_scouting": 1127899,
+                "max_total_agro": 490600,
+                "max_frags_battle": 2,
+                "capture_points": 56,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 2,
+                    "frags": 24
+                },
+                "survived_wins": 19,
+                "max_damage_dealt": 84890,
+                "wins": 22,
+                "losses": 18,
+                "damage_dealt": 1623388,
+                "max_planes_killed": 28,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 3426,
+                "battles_since_512": 40
+            },
+            "last_battle_time": 1615826379,
+            "account_id": 562913374,
+            "distance": 1935,
+            "updated_at": 1615827581,
+            "battles": 66,
+            "ship_id": 4183799504,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 701,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 293,
+                    "shots": 759
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 17575,
+                "art_agro": 1083000,
+                "ships_spotted": 5,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 2963,
+                "survived_battles": 1,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 539793,
+                "draws": 0,
+                "battles_since_510": 6,
+                "planes_killed": 0,
+                "battles": 6,
+                "max_ships_spotted": 3,
+                "team_capture_points": 420,
+                "frags": 2,
+                "damage_scouting": 32277,
+                "max_total_agro": 499702,
+                "max_frags_battle": 1,
+                "capture_points": 1,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 1,
+                "max_damage_dealt": 15765,
+                "wins": 4,
+                "losses": 2,
+                "damage_dealt": 77548,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 175,
+                "battles_since_512": 6
+            },
+            "last_battle_time": 1588156288,
+            "account_id": 562913374,
+            "distance": 110,
+            "updated_at": 1588156959,
+            "battles": 6,
+            "ship_id": 4186879792,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1842,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 30608,
+                "art_agro": 2434100,
+                "ships_spotted": 57,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 11
+                },
+                "xp": 7587,
+                "survived_battles": 4,
+                "dropped_capture_points": 243,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 119497,
+                "draws": 0,
+                "battles_since_510": 10,
+                "planes_killed": 12,
+                "battles": 10,
+                "max_ships_spotted": 8,
+                "team_capture_points": 420,
+                "frags": 15,
+                "damage_scouting": 155051,
+                "max_total_agro": 671900,
+                "max_frags_battle": 5,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 5,
+                    "frags": 15
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 57537,
+                "wins": 5,
+                "losses": 5,
+                "damage_dealt": 357455,
+                "max_planes_killed": 4,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1012,
+                "battles_since_512": 10
+            },
+            "last_battle_time": 1650534791,
+            "account_id": 562913374,
+            "distance": 208,
+            "updated_at": 1650535456,
+            "battles": 11,
+            "ship_id": 4185896944,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1408,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 8,
+                    "hits": 297,
+                    "shots": 670
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 7062,
+                "art_agro": 1111500,
+                "ships_spotted": 5,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 6711,
+                "survived_battles": 4,
+                "dropped_capture_points": 64,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 191196,
+                "draws": 0,
+                "battles_since_510": 9,
+                "planes_killed": 0,
+                "battles": 9,
+                "max_ships_spotted": 2,
+                "team_capture_points": 480,
+                "frags": 13,
+                "damage_scouting": 20413,
+                "max_total_agro": 362100,
+                "max_frags_battle": 3,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 5,
+                    "hits": 12,
+                    "shots": 180
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 4,
+                "max_damage_dealt": 49165,
+                "wins": 7,
+                "losses": 2,
+                "damage_dealt": 228845,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 438,
+                "battles_since_512": 9
+            },
+            "last_battle_time": 1559937170,
+            "account_id": 562913374,
+            "distance": 208,
+            "updated_at": 1559937839,
+            "battles": 10,
+            "ship_id": 4279154384,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1047,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 42,
+                    "shots": 142
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 10997,
+                "art_agro": 480700,
+                "ships_spotted": 4,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 1783,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 2,
+                "planes_killed": 0,
+                "battles": 2,
+                "max_ships_spotted": 3,
+                "team_capture_points": 181,
+                "frags": 0,
+                "damage_scouting": 10997,
+                "max_total_agro": 330400,
+                "max_frags_battle": 0,
+                "capture_points": 27,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 48
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 11408,
+                "wins": 2,
+                "losses": 0,
+                "damage_dealt": 14626,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 35,
+                "battles_since_512": 2
+            },
+            "last_battle_time": 1577287381,
+            "account_id": 562913374,
+            "distance": 55,
+            "updated_at": 1577288032,
+            "battles": 2,
+            "ship_id": 4292753392,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1103,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 55,
+                    "shots": 170
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 9402,
+                "art_agro": 1673750,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 29,
+                    "shots": 271
+                },
+                "xp": 2174,
+                "survived_battles": 0,
+                "dropped_capture_points": 44,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 368528,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 0,
+                "team_capture_points": 180,
+                "frags": 2,
+                "damage_scouting": 12273,
+                "max_total_agro": 1167900,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 34222,
+                "wins": 2,
+                "losses": 1,
+                "damage_dealt": 78210,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 273,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1584738465,
+            "account_id": 562913374,
+            "distance": 74,
+            "updated_at": 1584739544,
+            "battles": 5,
+            "ship_id": 4186912560,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 903,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 55,
+                    "shots": 218
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 8606,
+                "art_agro": 869000,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 6,
+                    "shots": 47
+                },
+                "xp": 1975,
+                "survived_battles": 2,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 100730,
+                "draws": 0,
+                "battles_since_510": 3,
+                "planes_killed": 0,
+                "battles": 3,
+                "max_ships_spotted": 0,
+                "team_capture_points": 180,
+                "frags": 2,
+                "damage_scouting": 12765,
+                "max_total_agro": 491565,
+                "max_frags_battle": 1,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 2,
+                "max_damage_dealt": 50334,
+                "wins": 2,
+                "losses": 1,
+                "damage_dealt": 77735,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 3
+            },
+            "last_battle_time": 1596556382,
+            "account_id": 562913374,
+            "distance": 46,
+            "updated_at": 1596557299,
+            "battles": 3,
+            "ship_id": 4293867504,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1852,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 75726,
+                "art_agro": 2187250,
+                "ships_spotted": 78,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 49,
+                    "shots": 322
+                },
+                "xp": 14770,
+                "survived_battles": 7,
+                "dropped_capture_points": 230,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 382933,
+                "draws": 0,
+                "battles_since_510": 13,
+                "planes_killed": 82,
+                "battles": 13,
+                "max_ships_spotted": 10,
+                "team_capture_points": 1200,
+                "frags": 23,
+                "damage_scouting": 339490,
+                "max_total_agro": 657982,
+                "max_frags_battle": 5,
+                "capture_points": 21,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 5,
+                    "frags": 21
+                },
+                "survived_wins": 7,
+                "max_damage_dealt": 64883,
+                "wins": 10,
+                "losses": 3,
+                "damage_dealt": 530473,
+                "max_planes_killed": 18,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1275,
+                "battles_since_512": 13
+            },
+            "last_battle_time": 1650750638,
+            "account_id": 562913374,
+            "distance": 327,
+            "updated_at": 1650751500,
+            "battles": 13,
+            "ship_id": 4185896752,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 436,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 2,
+                    "shots": 9
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 194300,
+                "ships_spotted": 1,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 436,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 1,
+                "planes_killed": 3,
+                "battles": 1,
+                "max_ships_spotted": 1,
+                "team_capture_points": 181,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 194300,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 3
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 1056,
+                "wins": 1,
+                "losses": 0,
+                "damage_dealt": 1056,
+                "max_planes_killed": 3,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 102,
+                "battles_since_512": 1
+            },
+            "last_battle_time": 1584296076,
+            "account_id": 562913374,
+            "distance": 8,
+            "updated_at": 1584297074,
+            "battles": 1,
+            "ship_id": 4184749360,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 2735,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 19,
+                    "hits": 778,
+                    "shots": 2506
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 36136,
+                "art_agro": 36157450,
+                "ships_spotted": 9,
+                "second_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 321,
+                    "shots": 2376
+                },
+                "xp": 37429,
+                "survived_battles": 8,
+                "dropped_capture_points": 76,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 3537286,
+                "draws": 0,
+                "battles_since_510": 30,
+                "planes_killed": 66,
+                "battles": 30,
+                "max_ships_spotted": 2,
+                "team_capture_points": 3298,
+                "frags": 23,
+                "damage_scouting": 434141,
+                "max_total_agro": 3748050,
+                "max_frags_battle": 3,
+                "capture_points": 62,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 5,
+                "max_damage_dealt": 110403,
+                "wins": 13,
+                "losses": 17,
+                "damage_dealt": 1641317,
+                "max_planes_killed": 11,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1670,
+                "battles_since_512": 30
+            },
+            "last_battle_time": 1663263988,
+            "account_id": 562913374,
+            "distance": 1586,
+            "updated_at": 1663264651,
+            "battles": 43,
+            "ship_id": 4182718192,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1506,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 2,
+                    "hits": 647,
+                    "shots": 1986
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 17219,
+                "art_agro": 7270850,
+                "ships_spotted": 15,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 14,
+                    "shots": 139
+                },
+                "xp": 12939,
+                "survived_battles": 0,
+                "dropped_capture_points": 33,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 592363,
+                "draws": 0,
+                "battles_since_510": 15,
+                "planes_killed": 2,
+                "battles": 15,
+                "max_ships_spotted": 4,
+                "team_capture_points": 1716,
+                "frags": 7,
+                "damage_scouting": 109956,
+                "max_total_agro": 1375701,
+                "max_frags_battle": 1,
+                "capture_points": 36,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 4,
+                    "shots": 156
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 69135,
+                "wins": 10,
+                "losses": 5,
+                "damage_dealt": 346243,
+                "max_planes_killed": 2,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1127,
+                "battles_since_512": 15
+            },
+            "last_battle_time": 1652607538,
+            "account_id": 562913374,
+            "distance": 1285,
+            "updated_at": 1652607816,
+            "battles": 64,
+            "ship_id": 4184782640,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 0,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 0,
+                "art_agro": 0,
+                "ships_spotted": 0,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "xp": 0,
+                "survived_battles": 0,
+                "dropped_capture_points": 0,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 0,
+                "draws": 0,
+                "battles_since_510": 0,
+                "planes_killed": 0,
+                "battles": 0,
+                "max_ships_spotted": 0,
+                "team_capture_points": 0,
+                "frags": 0,
+                "damage_scouting": 0,
+                "max_total_agro": 0,
+                "max_frags_battle": 0,
+                "capture_points": 0,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 0,
+                "wins": 0,
+                "losses": 0,
+                "damage_dealt": 0,
+                "max_planes_killed": 0,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 0,
+                "battles_since_512": 0
+            },
+            "last_battle_time": 1600782520,
+            "account_id": 562913374,
+            "distance": 33,
+            "updated_at": 1600782844,
+            "battles": 2,
+            "ship_id": 4186879824,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1872,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 1,
+                    "frags": 1,
+                    "hits": 285,
+                    "shots": 824
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 34570,
+                "art_agro": 7461450,
+                "ships_spotted": 19,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 22,
+                    "shots": 172
+                },
+                "xp": 13920,
+                "survived_battles": 0,
+                "dropped_capture_points": 82,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 840794,
+                "draws": 0,
+                "battles_since_510": 17,
+                "planes_killed": 17,
+                "battles": 17,
+                "max_ships_spotted": 4,
+                "team_capture_points": 1079,
+                "frags": 5,
+                "damage_scouting": 162989,
+                "max_total_agro": 810000,
+                "max_frags_battle": 2,
+                "capture_points": 204,
+                "ramming": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "torpedoes": {
+                    "max_frags_battle": 1,
+                    "frags": 3,
+                    "hits": 18,
+                    "shots": 94
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 0,
+                "max_damage_dealt": 62236,
+                "wins": 8,
+                "losses": 9,
+                "damage_dealt": 335147,
+                "max_planes_killed": 10,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 1161,
+                "battles_since_512": 17
+            },
+            "last_battle_time": 1597171385,
+            "account_id": 562913374,
+            "distance": 449,
+            "updated_at": 1597171826,
+            "battles": 19,
+            "ship_id": 4184782576,
+            "private": null
+        },
+        {
+            "pvp": {
+                "max_xp": 1736,
+                "damage_to_buildings": 0,
+                "main_battery": {
+                    "max_frags_battle": 2,
+                    "frags": 12,
+                    "hits": 473,
+                    "shots": 2390
+                },
+                "suppressions_count": 0,
+                "max_damage_scouting": 32133,
+                "art_agro": 26694100,
+                "ships_spotted": 6,
+                "second_battery": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 191,
+                    "shots": 831
+                },
+                "xp": 27697,
+                "survived_battles": 10,
+                "dropped_capture_points": 226,
+                "max_damage_dealt_to_buildings": 0,
+                "torpedo_agro": 1114333,
+                "draws": 0,
+                "battles_since_510": 31,
+                "planes_killed": 51,
+                "battles": 31,
+                "max_ships_spotted": 4,
+                "team_capture_points": 3544,
+                "frags": 13,
+                "damage_scouting": 296460,
+                "max_total_agro": 1845500,
+                "max_frags_battle": 2,
+                "capture_points": 77,
+                "ramming": {
+                    "max_frags_battle": 1,
+                    "frags": 1
+                },
+                "torpedoes": {
+                    "max_frags_battle": 0,
+                    "frags": 0,
+                    "hits": 0,
+                    "shots": 0
+                },
+                "aircraft": {
+                    "max_frags_battle": 0,
+                    "frags": 0
+                },
+                "survived_wins": 9,
+                "max_damage_dealt": 69841,
+                "wins": 16,
+                "losses": 15,
+                "damage_dealt": 738074,
+                "max_planes_killed": 12,
+                "max_suppressions_count": 0,
+                "team_dropped_capture_points": 3125,
+                "battles_since_512": 31
+            },
+            "last_battle_time": 1576964576,
+            "account_id": 562913374,
+            "distance": 943,
+            "updated_at": 1576965624,
+            "battles": 31,
+            "ship_id": 4287575760,
+            "private": null
+        }
+    ]
+}

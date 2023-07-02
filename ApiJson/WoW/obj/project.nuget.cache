@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sboR/mUJTozAf9wAg+zTbsbOEkzUPlLWSsv1N8UOPmxxpBL8m5yKi5G4lXkJPT7l6/27LN23fTcG584AcG1XBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marco Beltrame\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Beltrame\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
