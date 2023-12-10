@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj": {}
+    "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\WoW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj": {
+    "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\WoW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\WoW.csproj",
         "projectName": "WoW",
-        "projectPath": "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj",
-        "packagesPath": "C:\\Users\\Marco Beltrame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\obj\\",
+        "projectPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\WoW.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Marco Beltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

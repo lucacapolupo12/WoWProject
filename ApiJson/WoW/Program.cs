@@ -71,11 +71,6 @@ foreach (var player in playerList)
     itemList.Add(item);
     await Task.Delay(1000);
 
-    //await File.AppendAllTextAsync("C:/Users/Marco Beltrame/Desktop/Newfile.json", responseBody + "\n");
-
     Console.WriteLine(player + " " + response.StatusCode);
 }
-
-var x = 0;
-
 

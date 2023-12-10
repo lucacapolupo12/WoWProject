@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sboR/mUJTozAf9wAg+zTbsbOEkzUPlLWSsv1N8UOPmxxpBL8m5yKi5G4lXkJPT7l6/27LN23fTcG584AcG1XBw==",
+  "dgSpecHash": "vCg9haGxfNrBYf+NlL/EwseXDQYlmBqABJw74eGXW85Ir7Sk5QvGl+kFVdsshhSY81yRRa0zf3LvAfb+Z49UPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco Beltrame\\source\\Wow\\WoW\\WoW\\WoW.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\OneDrive\\Desktop\\ApiJson\\WoW\\WoW.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Marco Beltrame\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Marco Beltrame\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\Utente\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Utente\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
